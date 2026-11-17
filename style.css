@@ -19,11 +19,11 @@ nav {
     padding: 15px;
 }
 
-nav li {
+.opcion {
     margin: 10px;
 }
 
-nav a {
+.menu {
     color: white;
     font-size: 18px;
 }
