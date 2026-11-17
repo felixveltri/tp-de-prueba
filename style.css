@@ -20,6 +20,7 @@ nav {
 }
 
 .opcion {
+    display: inline-block;
     margin: 10px;
 }
 
@@ -72,4 +73,9 @@ footer {
 
 footer p {
     text-align: center;
+}
+
+.logo {
+    width: 100px;
+    margin: 10px;
 }
